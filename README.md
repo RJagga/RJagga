@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi👋, I'm Rishab
 
-<!--
-**RJagga/RJagga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech, IIT Roorkee. Backend SWE/SDE
 
-Here are some ideas to get you started:
+Learning and building RAG applications and REST APIs with Java/Spring Boot and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to backend SWE and data roles in fintech/finance.
+
+## Tech
+**Languages:** Python, Java, C++, SQL, JavaScript  
+**Stack:** MERN, Spring Boot  
+**AI/ML:** RAG pipelines, LLM integration, Pandas, NumPy
+
+## Socials
+[LinkedIn](https://linkedin.com/in/rishab-jagga) [Twitter](https://x.com/jaggarishab) [Leetcode](https://leetcode.com/u/joedabozo)
